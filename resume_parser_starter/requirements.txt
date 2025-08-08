@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+sqlalchemy
+psycopg2-binary
+pdfplumber
+python-docx
+phonenumbers
+rapidfuzz
